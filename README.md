@@ -14,7 +14,13 @@
 
 <br />
 
-**Index**
+**Become a contributor**  
+
+- Open a [new issue](https://github.com/app-generator/tutorial-flask/issues/new) using **Contributor** word in the title. Please provide relevant information regarding your experience. 
+
+<br />
+
+**Topics**
 
 - What is Flask
 - How can I install Flask
