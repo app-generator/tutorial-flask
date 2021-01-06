@@ -1,4 +1,4 @@
-# Flask Tutorial
+# [Flask](https://palletsprojects.com/p/flask/) Tutorial
 
 > Content provided by experienced developers based on the suggestions/questions from the audience. This initiative aims to provide **Free/Allways up-to-date** programming tutorials - Read the [Manifest](https://github.com/app-generator/learn-to-code).
 
@@ -102,4 +102,4 @@ By visiting the app in the browser (http://localhost:5000) we should see "My fir
 <br />
 
 ---
-Flask Tutorial - Free/Allways up-to-date Flask-related content | by [AppSeed](https://appseed.us?ref=gh).
+**[Flask](https://palletsprojects.com/p/flask/) Tutorial** - Free/Allways up-to-date Flask-related content | by [AppSeed](https://appseed.us?ref=gh).
