@@ -29,9 +29,9 @@
 
 <br />
 
-## :point_right: What is Flask
+## What is Flask
 
-Flask is a lightweight web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications.
+:point_right: Flask is a lightweight web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications.
 Compared to [Django](https://www.djangoproject.com/), Flask provides a lightweight codebase and more freedom to the developer.
 
 <br />
@@ -40,9 +40,9 @@ Compared to [Django](https://www.djangoproject.com/), Flask provides a lightweig
 
 <br />
 
-## :point_right: How can I install Flask
+## How can I install Flask
 
-The easiest way to install [Flask](https://palletsprojects.com/p/flask/) is to use [PIP](https://pip.pypa.io/en/stable/quickstart/) the official package-management tool.
+:point_right: The easiest way to install [Flask](https://palletsprojects.com/p/flask/) is to use [PIP](https://pip.pypa.io/en/stable/quickstart/) the official package-management tool.
 
 ```bash
 $ pip install Flask
@@ -69,9 +69,9 @@ In this case the installed version is **1.1.2**
 
 <br />
 
-## :point_right: A minimal App
+## A minimal App
 
-Open a terminal and install Flask (if not already installed) using PIP:
+:point_right: Open a terminal and install Flask (if not already installed) using PIP:
 
 ```bash
 $ pip install Flask
@@ -114,9 +114,9 @@ By visiting the app in the browser **localhost:5000** we should see **My first F
 
 <br />
 
-## :point_right: [Structure your code](./flask-project-structure.md)
+## [Structure your code](./flask-project-structure.md)
 
-Being such a lightweight framework, Flask comes with great flexibility regarding the codebase structure of a project. We can use a single file and drop all the code or split the app logic in more files and directories. All variants works but we migth have issues once our project is getting bigger and migth become unreadable for others. 
+:point_right: Being such a lightweight framework, Flask comes with great flexibility regarding the codebase structure of a project. We can use a single file and drop all the code or split the app logic in more files and directories. All variants works but we migth have issues once our project is getting bigger and migth become unreadable for others. 
 Well, this section presents a few options to keep in mind when we start a Flask project. 
 
 - One File
