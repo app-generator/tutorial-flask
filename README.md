@@ -25,7 +25,7 @@
 - [What is Flask](#what-is-flask)
 - [How can I install Flask](#how-can-i-install-flask)
 - [A minimal Flask application](#a-minimal-app)
-- Structure your code
+- [Structure your code](#structure-your-code)
 
 <br />
 
@@ -106,7 +106,7 @@ Above commnand does two things:
 
 <br />
 
-By visiting the app in the browser (http://localhost:5000) we should see "My first Flask!" message.
+By visiting the app in the browser **localhost:5000** we should see **My first Flask!** message.
 
 <br />
 
@@ -114,7 +114,7 @@ By visiting the app in the browser (http://localhost:5000) we should see "My fir
 
 <br />
 
-## Structure your code
+## :point_right: [Structure your code](./flask-project-structure.md)
 
 Being such a lightweight framework, Flask comes with great flexibility regarding the codebase structure of a project. We can use a single file and drop all the code or split the app logic in more files and directories. All variants works but we migth have issues once our project is getting bigger and migth become unreadable for others. 
 Well, this section presents a few options to keep in mind when we start a Flask project. 
