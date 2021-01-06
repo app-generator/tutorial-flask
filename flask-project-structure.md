@@ -11,6 +11,7 @@
 - [Single File](#single-file)
 - [Isolated `App` directory](#isolated-app-directory)
 - [Blueprints with `app-factory` pattern](#blueprints)
+- [Sample Apps](#sample-apps)
 
 <br />
 
@@ -37,6 +38,20 @@
 ## Blueprints
 
 :point_right: ToDo
+
+<br />
+
+> [Go UP :point_up_2:](#topics) 
+
+<br />
+
+## Sample apps
+
+:point_right: To visualize mentioned pattern in real-world Flask applications, here is a short-list:
+
+- [Flask Swipe](https://github.com/app-generator/jinja-swipe-bootstrap-5) - uses the **[Isolated app directory](#isolated-app-directory)** pattern
+- [Flask IraDesign](https://github.com/app-generator/flask-illustrations-iradesign) - uses the **[Isolated app directory](#isolated-app-directory)** pattern
+- [Flask Datta Able](https://github.com/app-generator/flask-dashboard-dattaable) - uses the **[blueprints](#blueprints)** pattern
 
 <br />
 
