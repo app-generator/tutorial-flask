@@ -28,7 +28,7 @@
 
 <br />
 
-## [What is Flask](https://docs.appseed.us/what-is/flask/)
+## :point_right: :url: [What is Flask](https://docs.appseed.us/what-is/flask/)
 
 Flask is a lightweight web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications.
 Compared to [Django](https://www.djangoproject.com/), Flask provides a lightweight codebase and more freedom to the developer.
@@ -60,11 +60,11 @@ In this case the installed version is **1.1.2**
 
 <br />
 
-[Go UP](#topics) :point_up_2:
+[Go UP :point_up_2:](#topics) 
 
 <br />
 
-## A minimal App
+## :point_right: A minimal App
 
 Open a terminal and install Flask (if not already installed) using PIP:
 
@@ -102,6 +102,10 @@ Above commnand does two things:
 <br />
 
 By visiting the app in the browser (http://localhost:5000) we should see "My first Flask!" message.
+
+<br />
+
+[Go UP :point_up_2:](#topics) 
 
 <br />
 
