@@ -20,7 +20,7 @@
 
 <br />
 
-**Topics**
+## Topics
 
 - [What is Flask](#what-is-flask)
 - [How can I install Flask](#how-can-i-install-flask)
@@ -56,7 +56,11 @@ Open a Python console (type python in terminal) and check the installed version 
 >>>
 ```
 
-In this case the installed version is **<1.1.2>**
+In this case the installed version is **1.1.2**
+
+<br />
+
+[Go UP](#topics)
 
 <br />
 
