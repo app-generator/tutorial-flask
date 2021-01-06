@@ -117,6 +117,7 @@ By visiting the app in the browser **localhost:5000** we should see **My first F
 ## [Flask Project Structure](./flask-project-structure.md)
 
 :point_right: Being such a lightweight framework, Flask comes with great flexibility regarding the codebase structure of a project. We can use a single file and drop all the code or split the app logic in more files and directories. All variants works but we migth have issues once our project is getting bigger and migth become unreadable for others. 
+
 Well, this section presents a few options to keep in mind when we start a Flask project. 
 
 
