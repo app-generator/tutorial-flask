@@ -22,9 +22,9 @@
 
 **Topics**
 
-- What is Flask
-- How can I install Flask
-- A minimal Flask application
+- [What is Flask](#what-is-flask)
+- [How can I install Flask](#how-can-i-install-flask)
+- [A minimal Flask application](#a-minimal-app)
 
 <br />
 
