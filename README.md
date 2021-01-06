@@ -25,10 +25,11 @@
 - [What is Flask](#what-is-flask)
 - [How can I install Flask](#how-can-i-install-flask)
 - [A minimal Flask application](#a-minimal-app)
+- Structure your code
 
 <br />
 
-## :point_right: :link: [What is Flask](https://docs.appseed.us/what-is/flask/)
+## :point_right: What is Flask
 
 Flask is a lightweight web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications.
 Compared to [Django](https://www.djangoproject.com/), Flask provides a lightweight codebase and more freedom to the developer.
@@ -106,6 +107,21 @@ Above commnand does two things:
 <br />
 
 By visiting the app in the browser (http://localhost:5000) we should see "My first Flask!" message.
+
+<br />
+
+> [Go UP :point_up_2:](#topics) 
+
+<br />
+
+## Structure your code
+
+Being such a lightweight framework, Flask comes with great flexibility regarding the codebase structure of a project. We can use a single file and drop all the code or split the app logic in more files and directories. All variants works but we migth have issues once our project is getting bigger and migth become unreadable for others. 
+Well, this section presents a few options to keep in mind when we start a Flask project. 
+
+- One File
+- Isolated app folder
+- Blueprints
 
 <br />
 
