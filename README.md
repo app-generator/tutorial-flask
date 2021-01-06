@@ -35,6 +35,10 @@ Compared to [Django](https://www.djangoproject.com/), Flask provides a lightweig
 
 <br />
 
+> [Go UP :point_up_2:](#topics) 
+
+<br />
+
 ## :point_right: How can I install Flask
 
 The easiest way to install [Flask](https://palletsprojects.com/p/flask/) is to use [PIP](https://pip.pypa.io/en/stable/quickstart/) the official package-management tool.
@@ -105,7 +109,7 @@ By visiting the app in the browser (http://localhost:5000) we should see "My fir
 
 <br />
 
-[Go UP :point_up_2:](#topics) 
+> [Go UP :point_up_2:](#topics) 
 
 <br />
 
