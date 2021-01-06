@@ -6,6 +6,8 @@
 
 <br />
 
+## Topics
+
 - [Single File](#single-file)
 - [Isolated `App` directory](#isolated-app-directory)
 - [Blueprints with `app-factory` pattern](#blueprints)
