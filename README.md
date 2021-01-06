@@ -35,7 +35,7 @@ Compared to [Django](https://www.djangoproject.com/), Flask provides a lightweig
 
 <br />
 
-## How can I install Flask
+## :point_right: How can I install Flask
 
 The easiest way to install [Flask](https://palletsprojects.com/p/flask/) is to use [PIP](https://pip.pypa.io/en/stable/quickstart/) the official package-management tool.
 
@@ -60,7 +60,7 @@ In this case the installed version is **1.1.2**
 
 <br />
 
-[Go UP](#topics)
+[Go UP](#topics) :point_up_2:
 
 <br />
 
