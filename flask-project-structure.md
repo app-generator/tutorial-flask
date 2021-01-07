@@ -126,7 +126,96 @@ $ flask run --port=5001
 
 ## Blueprints
 
-:point_right: ToDo
+:point_right: Flask uses Blueprints concept for a modular, easy to extend app structure. Bleuprints, similar to Django `apps` are basically modules that implement specific features. A Blueprint sample migth be the `authentication` module or a module that handles user notifications via email or SMS. 
+
+Using Blueprints is ideal to large projects like eCommerce projects for instance. Here is a sample extracted from the [official docs](https://flask.palletsprojects.com/en/1.1.x/blueprints/): 
+
+<br />
+
+**Define a Blueprint**
+
+```python
+from flask import Blueprint, render_template, abort
+from jinja2 import TemplateNotFound
+
+# Define the Blueprint 
+simple_bp = Blueprint( 'simple_bp', __name__,
+                        template_folder='templates')
+
+@simple_page.route('/')
+def show(page):
+    return f'My first Blueprint!'
+```
+
+Once we code it, we need to register the blueprint and make it usable.
+
+<br />
+
+**Register Blueprint**
+
+```python
+from flask import Flask
+from app.simple_bp import simple_bp
+
+app = Flask(__name__)
+app.register_blueprint(simple_bp)
+```
+
+In this sample, the Blueprint is 'mounted' in the root of the app but we can also use different locations: 
+
+```python
+app.register_blueprint(simple_bb, url_prefix='/contact')
+```
+
+Afer this update, the Blueprint is reachable by accessing `/contact` path of our application.
+
+
+<br />
+
+**Blueprints** - A real sample
+
+```bash
+< PROJECT ROOT >
+   |
+   |-- app/                      # Implements app logic
+   |    |-- base/                # Base Blueprint - handles the authentication
+   |    |-- home/                # Home Blueprint - serve UI Kit pages
+   |    |
+   |   __init__.py               # Initialize the app
+   |
+   |-- requirements.txt          # Development modules - SQLite storage
+   |
+   |-- .env                      # Inject Configuration via Environment
+   |-- config.py                 # Set up the app
+   |-- run.py                    # Start the app - WSGI gateway
+   |
+   |-- ************************************************************************
+```
+
+<br />
+
+> Relevant Files and folders
+
+- `run.py` - is the entry point that expose our `APP`
+- `app/__init__.py` - bundle/constructs the app: register Blueprints, configuration, set up Database
+- Define `base` blueprint - handles the authentication
+- Define `home` blueprint - serve the pages to authenticated users
+- expose `create_app()` method - **App factory Pattern**
+
+<br />
+
+**App Factory Pattern**
+
+This method is usually a good technique to develop complex projects in Flask. A 'factory' pattern expose the application bundled with all mandatory assets:
+
+- Read Configuration
+- Register Blueprints
+- Set up the database
+- Activate extensions (logging for instance)
+
+<br />
+
+> To visualize samples app that uses this structure please visit the [Sample Apps](#sample-apps) section.
 
 <br />
 
