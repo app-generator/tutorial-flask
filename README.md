@@ -120,6 +120,7 @@ By visiting the app in the browser **localhost:5000** we should see **My first F
 
 Well, this section presents a few options to keep in mind when we start a Flask project. 
 
+<br />
 
 :link: Read in detail: [Flask Project Structure](./flask-project-structure.md) 
 
