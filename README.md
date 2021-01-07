@@ -122,7 +122,7 @@ Well, this section presents a few options to keep in mind when we start a Flask 
 
 <br />
 
-:link: Read in detail: [Flask Project Structure](./flask-project-structure.md) 
+> :link: Read more: [Flask Project Structure](./flask-project-structure.md) 
 
 <br />
 
