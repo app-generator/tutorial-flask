@@ -36,7 +36,7 @@ Compared to [Django](https://www.djangoproject.com/), Flask provides a lightweig
 
 <br />
 
-> [Go UP :point_up_2:](#topics) 
+<p align="right"><a href="#topics"> :point_up_2: Return to top</a></p>
 
 <br />
 
@@ -65,7 +65,7 @@ In this case the installed version is **1.1.2**
 
 <br />
 
-<p align="right"><a href="#topics"> :up: Return to top</a></p>
+<p align="right"><a href="#topics"> :point_up_2: Return to top</a></p>
 
 <br />
 
@@ -110,7 +110,7 @@ By visiting the app in the browser **localhost:5000** we should see **My first F
 
 <br />
 
-> [Go UP :point_up_2:](#topics) 
+<p align="right"><a href="#topics"> :point_up_2: Return to top</a></p>
 
 <br />
 
@@ -121,11 +121,11 @@ By visiting the app in the browser **localhost:5000** we should see **My first F
 Well, this section presents a few options to keep in mind when we start a Flask project. 
 
 
-> Read in detail: [Flask Project Structure](./flask-project-structure.md) 
+:link: Read in detail: [Flask Project Structure](./flask-project-structure.md) 
 
 <br />
 
-> [Go UP :point_up_2:](#topics) 
+<p align="right"><a href="#topics"> :point_up_2: Return to top</a></p>
 
 <br />
 
