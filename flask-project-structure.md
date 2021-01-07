@@ -21,7 +21,7 @@
 
 <br />
 
-> [Go UP :point_up_2:](#topics) 
+<p align="right"><a href="#topics"> :point_up_2: Return to top</a></p>
 
 <br />
 
@@ -31,7 +31,7 @@
 
 <br />
 
-> [Go UP :point_up_2:](#topics) 
+<p align="right"><a href="#topics"> :point_up_2: Return to top</a></p>
 
 <br />
 
@@ -41,7 +41,7 @@
 
 <br />
 
-> [Go UP :point_up_2:](#topics) 
+<p align="right"><a href="#topics"> :point_up_2: Return to top</a></p>
 
 <br />
 
@@ -55,7 +55,7 @@
 
 <br />
 
-> [Go UP :point_up_2:](#topics) 
+<p align="right"><a href="#topics"> :point_up_2: Return to top</a></p>
 
 <br />
 
