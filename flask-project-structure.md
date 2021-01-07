@@ -206,7 +206,7 @@ Afer this update, the Blueprint is reachable by accessing `/contact` path of our
 
 **App Factory Pattern**
 
-This method is usually a good technique to develop complex projects in Flask. A 'factory' pattern expose the application bundled with all mandatory assets:
+This method is usually a good technique to develop complex projects in Flask. A `factory` pattern exposes the application bundled with all mandatory assets:
 
 - Read Configuration
 - Register Blueprints
