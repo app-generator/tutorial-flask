@@ -25,8 +25,9 @@
 - [What is Flask](#what-is-flask)
 - [How can I install Flask](#how-can-i-install-flask)
 - [A minimal Flask application](#a-minimal-app)
-- [Flask Project Structure](#flask-project-structure)
-- [Flask Bootstrap Sample](#flask-bootstrap-sample)
+- [Flask Project Structure](#flask-project-structure) - a few options
+- (WIP) [Flask Bootstrap Sample](#flask-bootstrap-sample) - a simple project built with Bootstrap
+- (WIP) [Jinja Template](#jinja-template) - how to render HTML pages efficiently
 
 <br />
 
@@ -138,6 +139,20 @@ Well, this section presents a few options to keep in mind when we start a Flask 
 <br />
 
 > :link: Read more: [Flask Bootstrap Sample](./flask-bootstrap-sample.md)
+
+<br />
+
+<p align="right"><a href="#topics"> :point_up_2: Return to top</a></p>
+
+<br />
+
+## [Jinja Template](./jinja-template.md)
+
+:point_right: Jinja is a modern and designer-friendly templating language for Python, modelled after Django's templates. It is a text-based template language and thus can be used to generate any markup as well as source code.
+
+<br />
+
+> :link: Read more: [Jinja Template](./jinja-template.md)
 
 <br />
 
