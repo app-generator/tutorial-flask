@@ -36,7 +36,7 @@ Compared to [Django](https://www.djangoproject.com/), Flask provides a lightweig
 
 <br />
 
-<p align="right"><ins><a href="#topics"> :point_up_2: Return to top</a></ins></p>
+<p align="right"><a href="#topics"> :point_up_2: Return to top</a></p>
 
 <br />
 
