@@ -23,7 +23,7 @@
 ## Topics
 
 - [What is Flask](#what-is-flask)
-- [How can I install Flask](#how-can-i-install-flask)
+- [Install Flask](#install-flask)
 - [A minimal Flask application](#a-minimal-app)
 - [Flask Project Structure](#flask-project-structure) - a few options
 - (WIP) [Flask Bootstrap Sample](#flask-bootstrap-sample) - a simple project built with Bootstrap
@@ -42,7 +42,7 @@ Compared to [Django](https://www.djangoproject.com/), Flask provides a lightweig
 
 <br />
 
-## How can I install Flask
+## Install Flask
 
 :point_right: The easiest way to install [Flask](https://palletsprojects.com/p/flask/) is to use [PIP](https://pip.pypa.io/en/stable/quickstart/) the official package-management tool.
 
