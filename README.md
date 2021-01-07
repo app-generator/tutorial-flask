@@ -26,6 +26,7 @@
 - [How can I install Flask](#how-can-i-install-flask)
 - [A minimal Flask application](#a-minimal-app)
 - [Flask Project Structure](#flask-project-structure)
+- [Flask Bootstrap Sample](#flask-bootstrap-sample)
 
 <br />
 
@@ -123,6 +124,20 @@ Well, this section presents a few options to keep in mind when we start a Flask 
 <br />
 
 > :link: Read more: [Flask Project Structure](./flask-project-structure.md): [Single File](./flask-project-structure.md#single-file), [Isolated App](./flask-project-structure.md#isolated-app-directory), [Blueprints](./flask-project-structure.md#blueprints)
+
+<br />
+
+<p align="right"><a href="#topics"> :point_up_2: Return to top</a></p>
+
+<br />
+
+## [Flask Bootstrap Sample](./flask-bootstrap-sample.md)
+
+:point_right: We can use the information learned in the previous sections and build from scratch a simple Flask project on top of a modern Bootstrap UI Kit.
+
+<br />
+
+> :link: Read more: [Flask Bootstrap Sample](./flask-bootstrap-sample.md)
 
 <br />
 
