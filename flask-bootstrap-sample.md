@@ -126,7 +126,7 @@ This design will be integrated in our Flask project.
    |
    |-- app/
    |    |
-   |    |-- static/
+   |    |-- static/assets
    |         |-- css      # CSS files
    |         |-- img      # Images 
    |         |-- js       # Javascript Files
