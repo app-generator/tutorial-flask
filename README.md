@@ -122,7 +122,7 @@ Well, this section presents a few options to keep in mind when we start a Flask 
 
 <br />
 
-> :link: Read more: [Flask Project Structure](./flask-project-structure.md): [File](./flask-project-structure.md#single-file), [Isolated App]](./flask-project-structure.md#isolated-app-directory), [Blueprints](./flask-project-structure.md#blueprints)
+> :link: Read more: [Flask Project Structure](./flask-project-structure.md): [Single File](./flask-project-structure.md#single-file), [Isolated App](./flask-project-structure.md#isolated-app-directory), [Blueprints](./flask-project-structure.md#blueprints)
 
 <br />
 
