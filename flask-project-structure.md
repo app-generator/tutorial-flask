@@ -116,7 +116,7 @@ $ flask run --port=5001
 
 <br />
 
-> To visualize a samples app please visit the [Sample Apps](#sample-apps) section.
+> To visualize samples app that uses this structure please visit the [Sample Apps](#sample-apps) section.
 
 <br />
 
