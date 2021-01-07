@@ -28,7 +28,7 @@
 
 <br />
 
-## Swipe - Bootstrap UI Kit
+## Swipe Bootstrap UI Kit
 
 :point_right: ToDo
 
@@ -38,7 +38,7 @@
 
 <br />
 
-##Project Structure
+## Project Structure
 
 :point_right: ToDo
 
