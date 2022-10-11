@@ -12,13 +12,15 @@
 - Answers will be provided by experienced contributors 
 - Vote the response
 
-<br />
+<br /> 
 
-**Become a contributor**  
+> 🚀 `PROMO`: **[Junior Developers Starter KIT](https://www.creative-tim.com/product/buy/bundle/junior-bundle?AFFILIATE=128200)** `85%OFF`
 
-:point_right: Open a [new issue](https://github.com/app-generator/tutorial-flask/issues/new) using **Contributor** word in the title. Please provide relevant information regarding your experience. 
+The package includes a `rock-solid collection of premium assets` (**Kits & Dashboards**) that can be used to build eye-catching portfolios and web apps in no time.
 
-<br />
+[![Junior Developers Starter KIT](https://user-images.githubusercontent.com/51854817/195055646-e55200cd-0ddd-4bdd-aded-0d4e4479789b.png)](https://www.creative-tim.com/product/buy/bundle/junior-bundle?AFFILIATE=128200)
+
+<br /> 
 
 ## Topics
 
