@@ -4,7 +4,7 @@
 
 <br />
 
-> **How it works** 
+## How it works
 
 - Access the existing content
 - Open a [new issue](https://github.com/app-generator/tutorial-flask/issues/new) to get an answer related to an existing topic
