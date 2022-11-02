@@ -4,25 +4,17 @@
 
 <br />
 
-**How it works**
+> **How it works** 
 
 - Access the existing content
 - Open a [new issue](https://github.com/app-generator/tutorial-flask/issues/new) to get an answer related to an existing topic
 - Open a [new issue](https://github.com/app-generator/tutorial-flask/issues/new) to open a new tutorial topic
 - Answers will be provided by experienced contributors 
-- Vote the response
+- For [Support](https://appseed.us/support/) chat with `AppSeed` team 
 
 <br /> 
 
-> 🚀 `PROMO`: **[Junior Developers Starter KIT](https://www.creative-tim.com/product/buy/bundle/junior-bundle?AFFILIATE=128200)** `85%OFF`
-
-The package includes a `rock-solid collection of premium assets` (**Kits & Dashboards**) that can be used to build eye-catching portfolios and web apps in no time.
-
-[![Junior Developers Starter KIT](https://user-images.githubusercontent.com/51854817/195055646-e55200cd-0ddd-4bdd-aded-0d4e4479789b.png)](https://www.creative-tim.com/product/buy/bundle/junior-bundle?AFFILIATE=128200)
-
-<br /> 
-
-## Topics
+## Topics 
 
 - [What is Flask](#what-is-flask)
 - [Install Flask](#install-flask)
