@@ -1,27 +1,20 @@
-# [Flask](https://palletsprojects.com/p/flask/) Tutorial
+# [Getting Started with Flask](https://app-generator.dev/docs/technologies/flask/index.html)
 
-> Content provided by experienced developers based on the suggestions/questions from the audience. This initiative aims to provide **Free/Allways up-to-date** programming tutorials - Read the [Manifest](https://github.com/app-generator/learn-to-code).
+> Content provided by experienced developers based on the suggestions/questions from the audience - Actively supported by [App-Generator](https://app-generator.dev/) platform.
 
 <br />
 
-## How it works
-
-- Access the existing content
-- Open a [new issue](https://github.com/app-generator/tutorial-flask/issues/new) to get an answer related to an existing topic
-- Open a [new issue](https://github.com/app-generator/tutorial-flask/issues/new) to open a new tutorial topic
-- Answers will be provided by experienced contributors 
-- For [Support](https://appseed.us/support/) chat with `AppSeed` team 
-
-<br /> 
-
 ## Topics 
 
-- [What is Flask](#what-is-flask)
-- [Install Flask](#install-flask)
-- [A minimal Flask application](#a-minimal-app)
-- [Flask Project Structure](#flask-project-structure) - a few options
-- (WIP) [Flask Bootstrap Sample](#flask-bootstrap-sample) - a simple project built with Bootstrap
-- (WIP) [Jinja Template](#jinja-template) - how to render HTML pages efficiently
+- [Flask Cheatsheet](https://app-generator.dev/docs/technologies/flask/cheatsheet.html)
+- [Flask Database Migrations](https://app-generator.dev/docs/technologies/flask/db-migrations.html)
+- [Flask Jinja Templates](https://app-generator.dev/docs/technologies/flask/jinja-templates.html)
+
+## [Open-Source Flask Starters](https://app-generator.dev/product/?search=flask&free=True#)
+
+- [Flask AdminLTE](https://app-generator.dev/product/adminlte/flask/) - provides Dynamic Services, Charts
+- [Flask Datta Able](https://app-generator.dev/product/datta-able/flask/) - provides Dynamic Services, Charts
+- [Rocket Flask](https://app-generator.dev/product/rocket/flask/) - styled with Tailwind/Flowbite
 
 <br />
 
@@ -155,4 +148,4 @@ Well, this section presents a few options to keep in mind when we start a Flask 
 <br />
 
 ---
-**[Flask](https://palletsprojects.com/p/flask/) Tutorial** - Free/Allways up-to-date Flask-related content | by [AppSeed](https://appseed.us?ref=gh).
+[Getting Started with Flask](https://app-generator.dev/docs/technologies/flask/index.html) Tutorial provided by [App-Generator](https://app-generator.dev/) platform.
