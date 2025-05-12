@@ -4,11 +4,13 @@
 
 <br />
 
-## Topics 
+## Flask Topics 
 
 - [Flask Cheatsheet](https://app-generator.dev/docs/technologies/flask/cheatsheet.html)
 - [Flask Database Migrations](https://app-generator.dev/docs/technologies/flask/db-migrations.html)
 - [Flask Jinja Templates](https://app-generator.dev/docs/technologies/flask/jinja-templates.html)
+
+<br />
 
 ## [Open-Source Flask Starters](https://app-generator.dev/product/?search=flask&free=True#)
 
