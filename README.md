@@ -20,14 +20,9 @@
 
 <br />
 
-## What is Flask
+## [What is Flask](https://app-generator.dev/docs/technologies/flask.html)
 
-:point_right: Flask is a lightweight web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications.
-Compared to [Django](https://www.djangoproject.com/), Flask provides a lightweight codebase and more freedom to the developer.
-
-<br />
-
-<p align="right"><a href="#topics"> :point_up_2: Return to top</a></p>
+Flask is a server-side framework that facilitates the development of web applications and RESTful APIs. It leverages Werkzeug for WSGI utilities and Jinja2 for templating, providing a robust foundation for handling HTTP requests and generating dynamic content. Flask’s seamless integration with these powerful libraries enables developers to create sophisticated web applications with minimal overhead.
 
 <br />
 
