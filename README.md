@@ -1,14 +1,10 @@
-# [Getting Started with Flask](https://app-generator.dev/docs/technologies/flask/index.html)
+# Getting Started with Flask
 
-> Content provided by experienced developers based on the suggestions/questions from the audience - Actively supported by [App-Generator](https://app-generator.dev/) platform.
+> Content provided by experienced developers based on the suggestions/questions from the audience.
 
 <br />
 
-## Flask Topics 
-
-- [Flask Cheatsheet](https://app-generator.dev/docs/technologies/flask/cheatsheet.html)
-- [Flask Database Migrations](https://app-generator.dev/docs/technologies/flask/db-migrations.html)
-- [Flask Jinja Templates](https://app-generator.dev/docs/technologies/flask/jinja-templates.html)
+> :point_right: Provided by [App-Generator](https://app-generator.dev/) - **Helping entrepreneurs build products with continuous (human) support**
 
 <br />
 
@@ -38,7 +34,7 @@ $ pip install Flask
 
 **How to check Flask version**
 
-Open a Python console (type python in terminal) and check the installed version as below:
+Open a Python console (type python in the terminal) and check the installed version as below:
 
 ```python
 >> import flask
