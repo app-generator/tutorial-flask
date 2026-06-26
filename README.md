@@ -1,6 +1,6 @@
 # Getting Started with Flask
 
-> Content provided by experienced developers based on the suggestions/questions from the audience.
+Learn Flask by coding. 
 
 <br />
 
