@@ -8,14 +8,6 @@ Learn Flask by coding.
 
 <br />
 
-## [Open-Source Flask Starters](https://app-generator.dev/product/?search=flask&free=True#)
-
-- [Flask AdminLTE](https://app-generator.dev/product/adminlte/flask/) - provides Dynamic Services, Charts
-- [Flask Datta Able](https://app-generator.dev/product/datta-able/flask/) - provides Dynamic Services, Charts
-- [Rocket Flask](https://app-generator.dev/product/rocket/flask/) - styled with Tailwind/Flowbite
-
-<br />
-
 ## [What is Flask](https://app-generator.dev/docs/technologies/flask.html)
 
 Flask is a server-side framework that facilitates the development of web applications and RESTful APIs. It leverages Werkzeug for WSGI utilities and Jinja2 for templating, providing a robust foundation for handling HTTP requests and generating dynamic content. Flask’s seamless integration with these powerful libraries enables developers to create sophisticated web applications with minimal overhead.
